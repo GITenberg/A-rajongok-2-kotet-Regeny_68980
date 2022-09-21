@@ -1,0 +1,45 @@
+_repo: A-rajongok-2-kotet-Regeny_68980
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+  illustrator:
+    agent_name: Hirsch, Nelli
+    birthdate: 1871
+    deathdate: 1915
+    gutenberg_agent_id: '54527'
+    url: http://www.gutenberg.org/2009/agents/54527
+    wikipedia: https://hu.wikipedia.org/wiki/Rad%C3%B3n%C3%A9_Hirsch_Nelly
+creator:
+  author:
+    agent_name: Kemény, Zsigmond
+    gutenberg_agent_id: '55039'
+    url: http://www.gutenberg.org/2009/agents/55039
+description: ''
+gutenberg_issued: '2022-09-12'
+identifiers:
+  gutenberg: '68980'
+language: hu
+pgterms:marc905: 20220831040349kemny
+pgterms:marc906: '1904'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin-Társulat,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A rajongók (2. kötet): Regény'
+url: http://www.gutenberg.org/ebooks/68980
